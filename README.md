@@ -35,3 +35,6 @@ Teletransportar Player
 Ajustar Player entrada e sainda do carro
 ![image](https://github.com/macedocedo/Unreal5-Game/assets/84480587/442f48b0-64ee-4210-84f0-02760cc59acb)
 
+
+![image](https://github.com/macedocedo/Unreal5-Game/assets/84480587/cc384d47-dddf-41eb-a812-762e8e78c1af)
+
